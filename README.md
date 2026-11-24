@@ -1,5 +1,5 @@
 # NetSummaryBar
-
+![App Screenshot](https://i.imgur.com/nHpi2rt.png)
 A tiny Windows taskbar network monitor: live download / upload speed plus a histogram of recent activity.
 Two editions share the same look and settings:
 
@@ -14,6 +14,9 @@ Two editions share the same look and settings:
 - Transparent or custom background, custom colors, per-adapter or auto adapter selection
 - Hover tooltip with speeds, peaks and session totals (optional)
 - Overlay: tray icon (click toggles the bar, double click opens settings), fullscreen auto-hide, multi-monitor docking
+
+![App Screenshot](https://i.imgur.com/LxBU0e2.png)
+https://i.imgur.com/LxBU0e2.png
 
 ## Build
 - Overlay: run `Overlay\build.bat` (uses the .NET Framework compiler that ships with Windows).
