@@ -1,5 +1,6 @@
 # NetSummaryBar
 ![App Screenshot](https://i.imgur.com/nHpi2rt.png)
+
 A tiny Windows taskbar network monitor: live download / upload speed plus a histogram of recent activity.
 Two editions share the same look and settings:
 
