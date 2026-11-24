@@ -17,7 +17,6 @@ Two editions share the same look and settings:
 - Overlay: tray icon (click toggles the bar, double click opens settings), fullscreen auto-hide, multi-monitor docking
 
 ![App Screenshot](https://i.imgur.com/LxBU0e2.png)
-https://i.imgur.com/LxBU0e2.png
 
 ## Build
 - Overlay: run `Overlay\build.bat` (uses the .NET Framework compiler that ships with Windows).
